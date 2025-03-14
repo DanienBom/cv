@@ -20,7 +20,9 @@ body {
 font-weight: 400;
 font-style: normal;
 }
-
+.subtext-header {
+	color: white;
+}
 .resume-main {
 	background-color: #fffefc;
 	color: black
